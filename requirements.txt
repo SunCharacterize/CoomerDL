@@ -1,0 +1,4 @@
+PySide6>=6.6,<7
+beautifulsoup4>=4.12,<5
+requests>=2.31,<3
+cloudscraper>=1.2.71,<2

@@ -1,0 +1,15 @@
+{
+  "official": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "community": [
+    { "code": "tr", "name": "Türkçe" }
+  ]
+}
