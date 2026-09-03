@@ -1,4 +1,4 @@
-# CoomerDL
+# CoomerDL | KAHOOT
 
 **CoomerDL** is a desktop app for Windows that downloads images, videos, and files from supported websites. You paste a URL, pick a folder, and the app downloads everything for you — with progress bars, retries, and a database that prevents downloading the same file twice.
 
